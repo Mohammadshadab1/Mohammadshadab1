@@ -29,9 +29,6 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-#### 🎨 Graphic Design & Accounting
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00A651?style=for-the-badge&logo=coreldraw&logoColor=white)
-![Tally](https://img.shields.io/badge/Tally_Prime-00529B?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
