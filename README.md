@@ -1,5 +1,5 @@
 # Hi there, I'm Mohammad Shadab 👋
-### Data Analyst Aspirant | Excel | Power BI | SQL | Tally
+### Data Analyst Aspirant | Excel | Power BI | SQL | Python
 
 Welcome to my GitHub profile! I specialize in data cleaning, exploratory data analysis (EDA), and data visualization to derive meaningful insights.
 
@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 
 ---
 
-📫 *Connect with me:* [LinkedIn](www.linkedin.com/in/mohammad-shadab-550aab24b)
+📫 *Connect with me:* [LinkedIn](https://www.linkedin.com/in/mohammad-shadab-550aab24b)
