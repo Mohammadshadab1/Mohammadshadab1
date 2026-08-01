@@ -5,17 +5,7 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 
 ---
 
-### 🛠️ Tech Stack & Skills Icons
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,github,git,vscode,figma,html,css,ps" />
-  </a>
-</p>
-
----
-
-### 🏷️ Detailed Tools & Technologies
+### 🛠️ Tech Stack & Analytics Tools
 
 #### 📊 Data Analytics & Visualization
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -28,16 +18,17 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🐍 Programming & Data Handling
+#### 🐍 Python & Data Wrangling
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-#### 💻 Productivity & Office Tools
+#### 💻 Productivity & Graphic Design
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00A651?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Tally](https://img.shields.io/badge/Tally_Prime-00529B?style=for-the-badge&logo=powershell&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
