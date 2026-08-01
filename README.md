@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Mohammad Shadab 👋
+### Data Analyst Aspirant | Excel | Power BI | SQL | Tally
 
-<!--
-**Mohammadshadab1/Mohammadshadab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I specialize in data cleaning, exploratory data analysis (EDA), and data visualization to derive meaningful insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- *Data Analytics & Visualization:* Advanced Excel, Power BI
+- *Database & Querying:* SQL
+- *Programming:* Python (Learner)
+
+---
+
+### 📌 Featured Projects & Repositories
+- *[Data-Sets](./Data-Sets):* Repository containing raw messy data alongside cleaned and transformed datasets used for analytics projects.
+
+---
+
+📫 *Connect with me:* [LinkedIn](www.linkedin.com/in/mohammad-shadab-550aab24b)
