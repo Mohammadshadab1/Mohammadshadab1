@@ -5,7 +5,17 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills Icons
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,github,git,vscode,figma,html,css,ps" />
+  </a>
+</p>
+
+---
+
+### 🏷️ Detailed Tools & Technologies
 
 #### 📊 Data Analytics & Visualization
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -28,7 +38,6 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 #### 💻 Productivity & Office Tools
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
 
 ---
 
