@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 ---
 
 ### 📌 Featured Projects & Repositories
-- 📊 **[Ecommerce Sales Analysis](https://github.com/Mohammadshadab1/ecommerce-sales-customer-analysis):** Repository containing raw messy data alongside cleaned and transformed datasets used for analytics projects.
+- 📊 **[Ecommerce Sales Analysis](https://github.com/Mohammadshadab1/ecommerce-sales-customer-analysis):** End-to-end EDA on 12K+ e-commerce transactions using Python (Pandas, NumPy, Matplotlib, Seaborn) — data cleaning, KPI analysis, and business insights.
 
 ---
 
