@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 ---
 
 ### 📌 Featured Projects & Repositories
-- 📊 **[Data-Sets](https://github.com/Mohammadshadab1/Data-Sets):** Repository containing raw messy data alongside cleaned and transformed datasets used for analytics projects.
+- 📊 **[Ecommerce Sales Analysis](https://github.com/Mohammadshadab1/Data-Sets):** Repository containing raw messy data alongside cleaned and transformed datasets used for analytics projects.
 
 ---
 
