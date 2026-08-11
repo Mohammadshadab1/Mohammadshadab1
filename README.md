@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,git,github,vscode" />
   </a>
 </p>
 
