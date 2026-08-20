@@ -1,3 +1,4 @@
+![Project Banner](mohammad_shadab_banner.svg)
 # Hi there, I'm Mohammad Shadab 👋
 ### Data Analyst Aspirant | Analytics & Insights
 
