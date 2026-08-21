@@ -1,13 +1,19 @@
 ![Project Banner](mohammad_shadab_banner.svg)
+
 # Hi there, I'm Mohammad Shadab 👋
 ### Data Analyst Aspirant | Analytics & Insights
 
 Welcome to my GitHub profile! I specialize in data cleaning, exploratory data analysis (EDA), and data visualization to derive meaningful insights.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mohammadshadab1&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Mohammadshadab1?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Mohammadshadab1?style=social" alt="Stars" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack & Skills Icons
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,git,github,vscode" />
@@ -40,13 +46,37 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 
 #### 💻 Productivity & Office Tools
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
-
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ---
 
-### 📌 Featured Projects & Repositories
-- 📊 **[Ecommerce Sales Analysis](https://github.com/Mohammadshadab1/ecommerce-sales-customer-analysis):** End-to-end EDA on 12K+ e-commerce transactions using Python (Pandas, NumPy, Matplotlib, Seaborn) — data cleaning, KPI analysis, and business insights.
+### 📌 Featured Projects
+
+<table>
+<tr>
+<td width="100%">
+
+**📊 [Ecommerce Sales & Customer Analysis](https://github.com/Mohammadshadab1/ecommerce-sales-customer-analysis)**
+
+End-to-end EDA on 12K+ e-commerce transactions — data cleaning, KPI analysis, customer segmentation, and business insight generation.
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+⭐ Star this repo if you find it useful!
+
+</td>
+</tr>
+</table>
+
+> More projects coming soon — stay tuned! 🚀
+
+---
+
+### 🎓 Certifications
+
+- 🏅 **Meta Data Analyst Professional Certificate** — Meta (Coursera)
+- 🏅 **Microsoft Excel — Data Analysis & Visualization**
+- 🏅 **Microsoft Power BI Data Analyst Associate**
 
 ---
 
