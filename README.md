@@ -5,10 +5,17 @@
 
 Welcome to my GitHub profile! I specialize in data cleaning, exploratory data analysis (EDA), and data visualization to derive meaningful insights.
 
+### 📈 Profile Analytics
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mohammadshadab1&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Mohammadshadab1?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Mohammadshadab1?style=social" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammadshadab1&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Mohammadshadab1?label=Followers&style=for-the-badge&color=0EA5E9&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Mohammadshadab1?label=Total+Stars&style=for-the-badge&color=F59E0B&logo=github" alt="Stars" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadshadab1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadshadab1&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ---
@@ -74,9 +81,25 @@ End-to-end EDA on 12K+ e-commerce transactions — data cleaning, KPI analysis, 
 
 ### 🎓 Certifications
 
-- 🏅 **Meta Data Analyst Professional Certificate** — Meta (Coursera)
-- 🏅 **Microsoft Excel — Data Analysis & Visualization**
-- 🏅 **Microsoft Power BI Data Analyst Associate**
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/meta/0668E1" width="40" height="40" alt="Meta"/><br/>
+<b>Meta Data Analyst<br/>Professional Certificate</b><br/><br/>
+<a href="PASTE_YOUR_CERTIFICATE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-0668E1?style=for-the-badge&logo=coursera&logoColor=white" alt="View Certificate"/></a>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="40" height="40" alt="Microsoft Excel"/><br/>
+<b>Microsoft Excel<br/>Data Analysis & Visualization</b><br/><br/>
+<a href="PASTE_YOUR_CERTIFICATE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="View Certificate"/></a>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40" alt="Power BI"/><br/>
+<b>Microsoft Power BI<br/>Data Analyst Associate</b><br/><br/>
+<a href="PASTE_YOUR_CERTIFICATE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="View Certificate"/></a>
+</td>
+</tr>
+</table>
 
 ---
 
