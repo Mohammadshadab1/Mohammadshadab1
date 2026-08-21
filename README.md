@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammadshadab1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Mohammadshadab1&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Mohammadshadab1&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ---
@@ -84,17 +84,17 @@ End-to-end EDA on 12K+ e-commerce transactions — data cleaning, KPI analysis, 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/meta/0668E1" width="40" height="40" alt="Meta"/><br/>
+<img src="https://img.icons8.com/color/48/meta.png" width="45" height="45" alt="Meta"/><br/><br/>
 <b>Meta Data Analyst<br/>Professional Certificate</b><br/><br/>
 <a href="PASTE_YOUR_CERTIFICATE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-0668E1?style=for-the-badge&logo=coursera&logoColor=white" alt="View Certificate"/></a>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/><br/><br/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Microsoft Excel"/><br/><br/>
 <b>Microsoft Excel<br/>Data Analysis & Visualization</b><br/><br/>
 <a href="PASTE_YOUR_CERTIFICATE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="View Certificate"/></a>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/><br/><br/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/><br/><br/>
 <b>Microsoft Power BI<br/>Data Analyst Associate</b><br/><br/>
 <a href="PASTE_YOUR_CERTIFICATE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="View Certificate"/></a>
 </td>
