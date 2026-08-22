@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I specialize in data cleaning, exploratory data an
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=Mohammadshadab1&show_icons=true&theme=radical&hide_border=true&cache_bust=1" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Mohammadshadab1&theme=radical&hide_border=true&cache_bust=1" alt="GitHub Streak" height="165" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
 </p>
 
 ---
