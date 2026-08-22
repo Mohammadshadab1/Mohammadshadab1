@@ -86,7 +86,7 @@ End-to-end EDA on 12K+ e-commerce transactions — data cleaning, KPI analysis, 
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/48/meta.png" width="45" height="45" alt="Meta"/><br/><br/>
 <b>Meta Data Analyst<br/>Professional Certificate</b><br/><br/>
-<a href="PASTE_YOUR_CERTIFICATE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-0668E1?style=for-the-badge&logo=coursera&logoColor=white" alt="View Certificate"/></a>
+<a href="https://coursera.org/share/23b73f4861116b81216ae6785fa9942d"><img src="https://img.shields.io/badge/View_Certificate-0668E1?style=for-the-badge&logo=coursera&logoColor=white" alt="View Certificate"/></a>
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/48/microsoft.png" width="45" height="45" alt="Microsoft"/><br/><br/>
