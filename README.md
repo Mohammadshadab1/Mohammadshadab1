@@ -69,9 +69,11 @@ End-to-end EDA on 12K+ e-commerce transactions — data cleaning, KPI analysis, 
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
+⭐ Star this repo if you find it useful!
+
 **📊 [Employee Performance & Productivity Analytics](https://github.com/Mohammadshadab1/employee-performance-analysis)**
 
-End-to-end EDA on 12K+ e-commerce transactions — data cleaning, KPI analysis, customer segmentation, and business insight generation.
+📊 HR & People Analytics on 100K employee records (2014–2024). Job title drives pay (72% gap), attrition is a flat 10%, satisfaction doesn't predict exits. Python · dashboard · animated PPTX · PDF report.
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter-Notebook` `Power-BI` `DAX`
 
