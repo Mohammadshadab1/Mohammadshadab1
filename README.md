@@ -69,6 +69,12 @@ End-to-end EDA on 12K+ e-commerce transactions — data cleaning, KPI analysis, 
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
+**📊 [Employee Performance & Productivity Analytics](https://github.com/Mohammadshadab1/employee-performance-analysis)**
+
+End-to-end EDA on 12K+ e-commerce transactions — data cleaning, KPI analysis, customer segmentation, and business insight generation.
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter-Notebook` `Power-BI` `DAX`
+
 ⭐ Star this repo if you find it useful!
 
 </td>
