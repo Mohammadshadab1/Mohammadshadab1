@@ -64,31 +64,88 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 
 ## 📌 Featured Projects
 
-### 📊 Ecommerce Sales & Customer Analysis
+<table>
+  <!-- ───────────────────────── Project 1 ───────────────────────── -->
+  <tr>
+    <td width="42%" align="center" valign="top">
+      <a href="https://github.com/Mohammadshadab1/ecommerce-sales-customer-analysis">
+        <img src="./assets/ecommerce/slideshow.gif" alt="Ecommerce Sales Dashboard" height="240" />
+      </a>
+      <br/>
+      <sub>🖼️ click a thumbnail to view full size</sub><br/>
+      <a href="./assets/ecommerce/1.png"><img src="./assets/ecommerce/1.png" height="42" alt="1"/></a>
+      <a href="./assets/ecommerce/2.png"><img src="./assets/ecommerce/2.png" height="42" alt="2"/></a>
+      <a href="./assets/ecommerce/3.png"><img src="./assets/ecommerce/3.png" height="42" alt="3"/></a>
+      <a href="./assets/ecommerce/4.png"><img src="./assets/ecommerce/4.png" height="42" alt="4"/></a>
+    </td>
+    <td width="58%" valign="top">
+      <h3>📊 Ecommerce Sales & Customer Analysis</h3>
+      <p>End-to-end EDA on <b>12K+ e-commerce transactions</b> — data cleaning, KPI analysis, customer segmentation, and business insight generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/Mohammadshadab1/ecommerce-sales-customer-analysis"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        &nbsp; ⭐ Star if you find it useful!
+      </p>
+      <details>
+        <summary>📸 View all screenshots</summary>
+        <br/>
+          <img src="./assets/ecommerce/1.png" alt="Ecommerce Sales — screenshot 1" width="100%"/><br/>
+          <img src="./assets/ecommerce/2.png" alt="Ecommerce Sales — screenshot 2" width="100%"/><br/>
+          <img src="./assets/ecommerce/3.png" alt="Ecommerce Sales — screenshot 3" width="100%"/><br/>
+          <img src="./assets/ecommerce/4.png" alt="Ecommerce Sales — screenshot 4" width="100%"/><br/>
+      </details>
+    </td>
+  </tr>
 
-<img src="./assets/ecommerce-dashboard.png" alt="Ecommerce Sales Dashboard" width="100%" />
-
-End-to-end EDA on **12K+ e-commerce transactions** — data cleaning, KPI analysis, customer segmentation, and business insight generation.
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-🔗 [View Repository](https://github.com/Mohammadshadab1/ecommerce-sales-customer-analysis) &nbsp;|&nbsp; ⭐ Star if you find it useful!
-
-<br/>
-
-### 📊 Employee Performance & Productivity Analytics
-
-<img src="./assets/employee-performance-dashboard.png" alt="Employee Performance Dashboard" width="100%" />
-
-HR & People Analytics on **100K employee records (2014–2024)**. Job title drives pay (72% gap), attrition holds flat at 10%, and satisfaction doesn't predict exits.
-Includes Python EDA, interactive Power BI dashboard, animated PPTX, and PDF report.
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `DAX`
-
-🔗 [View Repository](https://github.com/Mohammadshadab1/employee-performance-analysis) &nbsp;|&nbsp; ⭐ Star if you find it useful!
+  <!-- ───────────────────────── Project 2 ───────────────────────── -->
+  <tr>
+    <td width="42%" align="center" valign="top">
+      <a href="https://github.com/Mohammadshadab1/employee-performance-analysis">
+        <img src="./assets/employee/slideshow.gif" alt="Employee Performance Dashboard" height="240" />
+      </a>
+      <br/>
+      <sub>🖼️ click a thumbnail to view full size</sub><br/>
+      <a href="./assets/employee/1.png"><img src="./assets/employee/1.png" height="42" alt="1"/></a>
+      <a href="./assets/employee/2.png"><img src="./assets/employee/2.png" height="42" alt="2"/></a>
+      <a href="./assets/employee/3.png"><img src="./assets/employee/3.png" height="42" alt="3"/></a>
+      <a href="./assets/employee/4.png"><img src="./assets/employee/4.png" height="42" alt="4"/></a>
+    </td>
+    <td width="58%" valign="top">
+      <h3>📊 Employee Performance & Productivity Analytics</h3>
+      <p>HR & People Analytics on <b>100K employee records (2014–2024)</b>. Job title drives pay (72% gap), attrition holds flat at 10%, and satisfaction doesn't predict exits.<br/>
+      Includes Python EDA, interactive Power BI dashboard, animated PPTX, and PDF report.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
+      </p>
+      <p>
+        <a href="https://github.com/Mohammadshadab1/employee-performance-analysis"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        &nbsp; ⭐ Star if you find it useful!
+      </p>
+      <details>
+        <summary>📸 View all screenshots</summary>
+        <br/>
+          <img src="./assets/employee/1.png" alt="Employee Performance — screenshot 1" width="100%"/><br/>
+          <img src="./assets/employee/2.png" alt="Employee Performance — screenshot 2" width="100%"/><br/>
+          <img src="./assets/employee/3.png" alt="Employee Performance — screenshot 3" width="100%"/><br/>
+          <img src="./assets/employee/4.png" alt="Employee Performance — screenshot 4" width="100%"/><br/>
+      </details>
+    </td>
+  </tr>
+</table>
 
 > 🚀 More projects coming soon — stay tuned!
-
 ---
 
 <div align="center">
