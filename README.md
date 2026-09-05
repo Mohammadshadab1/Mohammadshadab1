@@ -64,8 +64,9 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 
 ## 📌 Featured Projects
 
+<!-- ───────────────────────── Project 1 ───────────────────────── -->
 <a href="https://github.com/Mohammadshadab1/ecommerce-sales-customer-analysis">
-  <img align="left" src="./assets/ecommerce/slideshow.gif" alt="Ecommerce Sales Dashboard" width="400" hspace="10" vspace="6"/>
+  <img align="left" src="./assets/ecommerce/slideshow.gif" alt="Ecommerce Sales Dashboard" width="420"/>
 </a>
 
 <h3>📊 Ecommerce Sales & Customer Analysis</h3>
@@ -98,7 +99,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 
 <!-- ───────────────────────── Project 2 ───────────────────────── -->
 <a href="https://github.com/Mohammadshadab1/employee-performance-analysis">
-  <img align="left" src="./assets/employee/slideshow.gif" alt="Employee Performance Dashboard" width="400" hspace="10" vspace="6"/>
+  <img align="left" src="./assets/employee/slideshow.gif" alt="Employee Performance Dashboard" width="420"/>
 </a>
 
 <h3>📊 Employee Performance & Productivity Analytics</h3>
@@ -127,6 +128,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
   <img src="./assets/employee/3.png" alt="Employee Performance Dashboard — screenshot 3" width="100%"/><br/>
   <img src="./assets/employee/4.png" alt="Employee Performance Dashboard — screenshot 4" width="100%"/><br/>
 </details>
+
 
 > 🚀 More projects coming soon — stay tuned!
 ---
