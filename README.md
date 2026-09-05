@@ -91,6 +91,8 @@ Includes Python EDA, interactive Power BI dashboard, animated PPTX, and PDF repo
 
 ---
 
+<div align="center">
+  
 ## 🎓 Certifications
 
 <table>
@@ -157,10 +159,3 @@ I'm always open to discussing data projects, analytics roles, or freelance colla
 *⭐ If any of my work helped you, consider starring the repo — it really does help!*
 
 </div>
-
-
----
-
-### 🌐 Connect & Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfoliowebsite-lyart.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-shadab-550aab24b)
