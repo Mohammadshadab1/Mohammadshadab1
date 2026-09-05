@@ -77,6 +77,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
       <a href="./assets/ecommerce/2.png"><img src="./assets/ecommerce/2.png" height="42" alt="2"/></a>
       <a href="./assets/ecommerce/3.png"><img src="./assets/ecommerce/3.png" height="42" alt="3"/></a>
       <a href="./assets/ecommerce/4.png"><img src="./assets/ecommerce/4.png" height="42" alt="4"/></a>
+      <a href="./assets/ecommerce/5.png"><img src="./assets/ecommerce/4.png" height="42" alt="5"/></a>
     </td>
     <td width="58%" valign="top">
       <h3>📊 Ecommerce Sales & Customer Analysis</h3>
@@ -99,6 +100,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
           <img src="./assets/ecommerce/2.png" alt="Ecommerce Sales — screenshot 2" width="100%"/><br/>
           <img src="./assets/ecommerce/3.png" alt="Ecommerce Sales — screenshot 3" width="100%"/><br/>
           <img src="./assets/ecommerce/4.png" alt="Ecommerce Sales — screenshot 4" width="100%"/><br/>
+          <img src="./assets/ecommerce/5.png" alt="Ecommerce Sales — screenshot 4" width="100%"/><br/>
       </details>
     </td>
   </tr>
