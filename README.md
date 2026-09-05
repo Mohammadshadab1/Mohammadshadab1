@@ -4,14 +4,42 @@
 
 # Mohammad Shadab
 
-### Data Analyst | Turning Raw Data into Actionable Insights
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Turning+raw+data+into+actionable+insights;Data+cleaning+%E2%80%A2+EDA+%E2%80%A2+Dashboards+%E2%80%A2+BI;Open+to+Data+Analyst+roles+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, and business intelligence** — helping teams make data-driven decisions through clear, compelling visual stories.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfoliowebsite-lyart.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-shadab-550aab24b)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume/Mohammad_Shadab_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-jrshadab921%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrshadab921@gmail.com)
+
+<br/>
+
+<!-- Quick stats strip: numbers yahan manually update karo jab naya project/certificate aaye -->
+<img src="https://img.shields.io/badge/📊_Rows_Analyzed-660K%2B-8B5CF6?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/📁_Projects-4-0EA5E9?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/📈_Power_BI_Dashboards-9_pages-F59E0B?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/🎓_Certifications-3-10B981?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/📍_Varanasi,_India-open_to_remote-EC4899?style=flat-square&labelColor=1F2937" />
 
 </div>
+
+---
+
+## 👋 About Me
+
+- 🎓 Recent graduate & **aspiring Data Analyst** — actively looking for my first full-time Data Analyst role
+- 📊 I turn messy datasets into clean data, clear dashboards and decisions — **Python · SQL · Power BI · Excel**
+- 🧹 Biggest cleaning job so far: a **550K-row car-sales dataset** (imputation, typecasting, text standardization)
+- 🔍 Favourite finding: in 100K HR records, **satisfaction scores don't predict attrition** — the data broke the HR myth
+- 📜 Certified by **Meta** (Data Analyst) and **Microsoft** (Excel, Power BI)
+- 📍 Based in **Varanasi, India** — open to remote, hybrid or relocation
+
+### 📚 Currently Learning
+
+<img src="https://img.shields.io/badge/Statistics-Hypothesis_testing_•_A%2FB_testing-8B5CF6?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced_SQL-Window_functions_•_CTEs-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-Advanced_DAX_•_Data_modeling-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 
 ---
 ### 📈 Profile Analytics
@@ -25,6 +53,18 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Mohammadshadab1&show_icons=true&theme=radical&hide_border=true&cache_bust=1" alt="GitHub Stats" height="165" />
   <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/8B5CF6/Mohammadshadab1" alt="Contribution Calendar" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohammadshadab1/Mohammadshadab1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Mohammadshadab1&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="GitHub Trophies" width="100%" />
 </p>
 
 ---
@@ -71,6 +111,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 
 <h3>📊 Ecommerce Sales & Customer Analysis</h3>
 <p>End-to-end EDA on <b>12K+ e-commerce transactions</b> — data cleaning, KPI analysis, customer segmentation, and business insight generation.</p>
+<blockquote>💡 <b>Key result:</b> $1.41M revenue, 88% repeat-customer rate — but only <b>55% of orders delivered</b>. Electronics + Home & Kitchen drive 45% of sales; discounts show ~0 correlation with revenue → recommended bundling over blanket discounts.</blockquote>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -104,6 +145,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 
 <h3>📊 Employee Performance & Productivity Analytics</h3>
 <p>HR & People Analytics on <b>100K employee records (2014–2024)</b>. Job title drives pay (72% gap), attrition holds flat at 10%, and satisfaction doesn't predict exits.<br/>Includes Python EDA, interactive Power BI dashboard, animated PPTX, and PDF report.</p>
+<blockquote>💡 <b>Key result:</b> Job title is the <b>only</b> real pay lever (72% gap); education adds just 0.5%, tenure adds nothing. Gender pay gap ≈ 0.2%. Satisfaction (3.00 vs 2.99) doesn't predict who leaves.</blockquote>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
