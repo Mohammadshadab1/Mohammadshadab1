@@ -1,0 +1,46 @@
+name: Build project GIFs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "assets/**/*.png"
+      - "assets/**/*.jpg"
+      - "assets/**/*.jpeg"
+      - "assets/**/*.webp"
+      - "make_gif.py"
+      - ".github/workflows/build-gifs.yml"
+  workflow_dispatch:        # Actions tab se manually bhi chala sakte ho
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Build slideshow.gif for every project folder
+        run: |
+          for dir in assets/*/; do
+            # sirf un folders me jahan screenshots hain
+            if ls "$dir"/*.png "$dir"/*.jpg "$dir"/*.jpeg "$dir"/*.webp >/dev/null 2>&1; then
+              echo "▶ $dir"
+              python make_gif.py "$dir"
+            fi
+          done
+
+      - name: Commit GIFs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*/slideshow.gif
+          git commit -m "Auto-build project GIFs" || echo "No GIF changes"
+          git push
