@@ -67,12 +67,10 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 <table>
   <!-- ───────────────────────── Project 1 ───────────────────────── -->
   <tr>
-    <td width="42%" align="center" valign="top">
+    <td width="100%">
       <a href="https://github.com/Mohammadshadab1/ecommerce-sales-customer-analysis">
-        <img src="./assets/ecommerce/slideshow.gif" alt="Ecommerce Sales Dashboard" width="100%" />
+        <img src="./assets/ecommerce/slideshow.gif" alt="Ecommerce Sales Dashboard" width="100%"/>
       </a>
-    </td>
-    <td width="58%" valign="top">
       <h3>📊 Ecommerce Sales & Customer Analysis</h3>
       <p>End-to-end EDA on <b>12K+ e-commerce transactions</b> — data cleaning, KPI analysis, customer segmentation, and business insight generation.</p>
       <p>
@@ -89,26 +87,23 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
       <details>
         <summary>📸 View all screenshots</summary>
         <br/>
-          <img src="./assets/ecommerce/1.png" alt="Ecommerce Sales — screenshot 1" width="100%"/><br/>
-          <img src="./assets/ecommerce/2.png" alt="Ecommerce Sales — screenshot 2" width="100%"/><br/>
-          <img src="./assets/ecommerce/3.png" alt="Ecommerce Sales — screenshot 3" width="100%"/><br/>
-          <img src="./assets/ecommerce/4.png" alt="Ecommerce Sales — screenshot 4" width="100%"/><br/>
-          <img src="./assets/ecommerce/5.png" alt="Ecommerce Sales — screenshot 5" width="100%"/><br/>
+    <img src="./assets/ecommerce/1.png" alt="Ecommerce Sales Dashboard — screenshot 1" width="100%"/><br/>
+    <img src="./assets/ecommerce/2.png" alt="Ecommerce Sales Dashboard — screenshot 2" width="100%"/><br/>
+    <img src="./assets/ecommerce/3.png" alt="Ecommerce Sales Dashboard — screenshot 3" width="100%"/><br/>
+    <img src="./assets/ecommerce/4.png" alt="Ecommerce Sales Dashboard — screenshot 4" width="100%"/><br/>
+    <img src="./assets/ecommerce/5.png" alt="Ecommerce Sales Dashboard — screenshot 5" width="100%"/><br/>
       </details>
     </td>
   </tr>
 
   <!-- ───────────────────────── Project 2 ───────────────────────── -->
   <tr>
-    <td width="42%" align="center" valign="top">
+    <td width="100%">
       <a href="https://github.com/Mohammadshadab1/employee-performance-analysis">
-        <img src="./assets/employee/slideshow.gif" alt="Employee Performance Dashboard" width="100%" />
+        <img src="./assets/employee/slideshow.gif" alt="Employee Performance Dashboard" width="100%"/>
       </a>
-    </td>
-    <td width="58%" valign="top">
       <h3>📊 Employee Performance & Productivity Analytics</h3>
-      <p>HR & People Analytics on <b>100K employee records (2014–2024)</b>. Job title drives pay (72% gap), attrition holds flat at 10%, and satisfaction doesn't predict exits.<br/>
-      Includes Python EDA, interactive Power BI dashboard, animated PPTX, and PDF report.</p>
+      <p>HR & People Analytics on <b>100K employee records (2014–2024)</b>. Job title drives pay (72% gap), attrition holds flat at 10%, and satisfaction doesn't predict exits.<br/>Includes Python EDA, interactive Power BI dashboard, animated PPTX, and PDF report.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -125,10 +120,10 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
       <details>
         <summary>📸 View all screenshots</summary>
         <br/>
-          <img src="./assets/employee/1.png" alt="Employee Performance — screenshot 1" width="100%"/><br/>
-          <img src="./assets/employee/2.png" alt="Employee Performance — screenshot 2" width="100%"/><br/>
-          <img src="./assets/employee/3.png" alt="Employee Performance — screenshot 3" width="100%"/><br/>
-          <img src="./assets/employee/4.png" alt="Employee Performance — screenshot 4" width="100%"/><br/>
+    <img src="./assets/employee/1.png" alt="Employee Performance Dashboard — screenshot 1" width="100%"/><br/>
+    <img src="./assets/employee/2.png" alt="Employee Performance Dashboard — screenshot 2" width="100%"/><br/>
+    <img src="./assets/employee/3.png" alt="Employee Performance Dashboard — screenshot 3" width="100%"/><br/>
+    <img src="./assets/employee/4.png" alt="Employee Performance Dashboard — screenshot 4" width="100%"/><br/>
       </details>
     </td>
   </tr>
