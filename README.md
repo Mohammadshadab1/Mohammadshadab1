@@ -64,7 +64,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,git,github,vscode" />
   </a>
