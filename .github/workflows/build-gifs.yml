@@ -29,18 +29,29 @@ jobs:
 
       - name: Build slideshow.gif for every project folder
         run: |
+          built=0
           for dir in assets/*/; do
-            # sirf un folders me jahan screenshots hain
-            if ls "$dir"/*.png "$dir"/*.jpg "$dir"/*.jpeg "$dir"/*.webp >/dev/null 2>&1; then
-              echo "▶ $dir"
+            dir="${dir%/}"
+            # koi bhi screenshot (png/jpg/jpeg/webp) hai to hi GIF banao
+            if find "$dir" -maxdepth 1 -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.webp' \) | grep -q .; then
+              echo "▶ Building $dir"
               python make_gif.py "$dir"
+              built=$((built+1))
+            else
+              echo "⏭  Skipping $dir (no screenshots)"
             fi
           done
+          echo "Built $built GIF(s)"
+          ls -la assets/*/slideshow.gif || true
 
       - name: Commit GIFs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/*/slideshow.gif
-          git commit -m "Auto-build project GIFs" || echo "No GIF changes"
-          git push
+          git add -A assets
+          if git diff --cached --quiet; then
+            echo "No GIF changes to commit"
+          else
+            git commit -m "Auto-build project GIFs"
+            git push
+          fi
