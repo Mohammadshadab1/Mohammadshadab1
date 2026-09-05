@@ -55,13 +55,6 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
   <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/8B5CF6/Mohammadshadab1" alt="Contribution Calendar" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohammadshadab1/Mohammadshadab1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Mohammadshadab1&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="GitHub Trophies" width="100%" />
