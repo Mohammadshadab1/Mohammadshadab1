@@ -16,7 +16,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 ---
 ### 📈 Profile Analytics
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohammadshadab1&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Mohammadshadab1?label=Followers&style=for-the-badge&color=0EA5E9&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Mohammadshadab1?label=Total+Stars&style=for-the-badge&color=F59E0B&logo=github" alt="Stars" />
@@ -29,74 +29,69 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 
 ---
 
-### 🛠️ Tech Stack & Skills Icons
+## 🛠️ Tech Stack
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,git,github,vscode" />
   </a>
 </p>
 
----
+**📊 Analytics & Visualization**
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### 🏷️ Detailed Tools & Technologies
+**🗄️ Database & Querying**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-#### 📊 Data Analytics & Visualization
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**🐍 Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-#### 🗄️ Database & Querying
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-#### 🐍 Programming & Data Handling
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-#### 💻 Productivity & Office Tools
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+**💻 Productivity**
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="100%">
+### 📊 Ecommerce Sales & Customer Analysis
 
-**📊 [Ecommerce Sales & Customer Analysis](https://github.com/Mohammadshadab1/ecommerce-sales-customer-analysis)**
+<img src="./assets/ecommerce-dashboard.png" alt="Ecommerce Sales Dashboard" width="100%" />
 
-End-to-end EDA on 12K+ e-commerce transactions — data cleaning, KPI analysis, customer segmentation, and business insight generation.
+End-to-end EDA on **12K+ e-commerce transactions** — data cleaning, KPI analysis, customer segmentation, and business insight generation.
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-⭐ Star this repo if you find it useful!
+🔗 [View Repository](https://github.com/Mohammadshadab1/ecommerce-sales-customer-analysis) &nbsp;|&nbsp; ⭐ Star if you find it useful!
 
-**📊 [Employee Performance & Productivity Analytics](https://github.com/Mohammadshadab1/employee-performance-analysis)**
+<br/>
 
-📊 HR & People Analytics on 100K employee records (2014–2024). Job title drives pay (72% gap), attrition is a flat 10%, satisfaction doesn't predict exits. Python · dashboard · animated PPTX · PDF report.
+### 📊 Employee Performance & Productivity Analytics
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter-Notebook` `Power-BI` `DAX`
+<img src="./assets/employee-performance-dashboard.png" alt="Employee Performance Dashboard" width="100%" />
 
-⭐ Star this repo if you find it useful!
+HR & People Analytics on **100K employee records (2014–2024)**. Job title drives pay (72% gap), attrition holds flat at 10%, and satisfaction doesn't predict exits.
+Includes Python EDA, interactive Power BI dashboard, animated PPTX, and PDF report.
 
-</td>
-</tr>
-</table>
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `DAX`
 
-> More projects coming soon — stay tuned! 🚀
+🔗 [View Repository](https://github.com/Mohammadshadab1/employee-performance-analysis) &nbsp;|&nbsp; ⭐ Star if you find it useful!
+
+> 🚀 More projects coming soon — stay tuned!
 
 ---
 
-### 🎓 Certifications
+## 🎓 Certifications
 
 <table>
 <tr>
@@ -112,11 +107,57 @@ End-to-end EDA on 12K+ e-commerce transactions — data cleaning, KPI analysis, 
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/48/microsoft.png" width="45" height="45" alt="Microsoft"/><br/><br/>
-<b>Microsoft Power BI<br/>Data Analyst </b><br/><br/>
+<b>Microsoft Power BI<br/>Data Analyst</b><br/><br/>
 <a href="PASTE_YOUR_CERTIFICATE_LINK_HERE"><img src="https://img.shields.io/badge/View_Certificate-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="View Certificate"/></a>
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect & Collaborate
+
+I'm always open to discussing data projects, analytics roles, or freelance collaborations. Reach out through any of the channels below — I usually respond within a day.
+
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://myportfoliowebsite-lyart.vercel.app/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="40" height="40" alt="Portfolio"/>
+</a>
+<br/><b>Portfolio</b><br/>
+<sub>Case studies & project deep-dives</sub><br/><br/>
+<a href="https://myportfoliowebsite-lyart.vercel.app/"><img src="https://img.shields.io/badge/Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</td>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/in/mohammad-shadab-550aab24b">
+<img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+</a>
+<br/><b>LinkedIn</b><br/>
+<sub>Experience, endorsements & updates</sub><br/><br/>
+<a href="https://www.linkedin.com/in/mohammad-shadab-550aab24b"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Mohammadshadab1">
+<img src="https://img.icons8.com/fluency/48/github.png" width="40" height="40" alt="GitHub"/>
+</a>
+<br/><b>GitHub</b><br/>
+<sub>Code, notebooks & dashboards</sub><br/><br/>
+<a href="https://github.com/Mohammadshadab1"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+> 💡 **Open to:** Data Analyst roles &nbsp;•&nbsp; Freelance dashboard/reporting projects &nbsp;•&nbsp; Collaboration on open-source analytics work
+
+*⭐ If any of my work helped you, consider starring the repo — it really does help!*
+
+</div>
+
 
 ---
 
