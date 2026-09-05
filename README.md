@@ -22,7 +22,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
   <img src="https://img.shields.io/github/stars/Mohammadshadab1?label=Total+Stars&style=for-the-badge&color=F59E0B&logo=github" alt="Stars" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Mohammadshadab1&show_icons=true&theme=radical&hide_border=true&cache_bust=1" alt="GitHub Stats" height="165" />
   <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
 </p>
@@ -66,7 +66,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 
 ### 📊 Ecommerce Sales & Customer Analysis
 
-<img src="./assets/ecommerce-dashboard.png" alt="Ecommerce Sales Dashboard" width="100%" />
+<img src="./Power BI Dashboard/01 EXECUTIVE OVERVIEW DASHBOARD.png" alt="Ecommerce Sales Dashboard" width="100%" />
 
 End-to-end EDA on **12K+ e-commerce transactions** — data cleaning, KPI analysis, customer segmentation, and business insight generation.
 
@@ -78,7 +78,7 @@ End-to-end EDA on **12K+ e-commerce transactions** — data cleaning, KPI analys
 
 ### 📊 Employee Performance & Productivity Analytics
 
-<img src="./assets/employee-performance-dashboard.png" alt="Employee Performance Dashboard" width="100%" />
+<img src="./Power BI Dashboard/1. Overview.png" alt="Employee Performance Dashboard" width="100%" />
 
 HR & People Analytics on **100K employee records (2014–2024)**. Job title drives pay (72% gap), attrition holds flat at 10%, and satisfaction doesn't predict exits.
 Includes Python EDA, interactive Power BI dashboard, animated PPTX, and PDF report.
