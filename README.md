@@ -1,10 +1,19 @@
+<div align="center">
+
 ![Project Banner](mohammad_shadab_banner.svg)
 
-# Hi there, I'm Mohammad Shadab 👋
-### Data Analyst Aspirant | Analytics & Insights
+# Mohammad Shadab
 
-Welcome to my GitHub profile! I specialize in data cleaning, exploratory data analysis (EDA), and data visualization to derive meaningful insights.
+### Data Analyst | Turning Raw Data into Actionable Insights
 
+I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, and business intelligence** — helping teams make data-driven decisions through clear, compelling visual stories.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfoliowebsite-lyart.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-shadab-550aab24b)
+
+</div>
+
+---
 ### 📈 Profile Analytics
 
 <p align="left">
