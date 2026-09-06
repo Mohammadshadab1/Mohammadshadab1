@@ -33,7 +33,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 - 🧹 Biggest cleaning job so far: a **550K-row car-sales dataset** (imputation, typecasting, text standardization)
 - 🔍 Favourite finding: in 100K HR records, **satisfaction scores don't predict attrition** — the data broke the HR myth
 - 📜 Certified by **Meta** (Data Analyst) and **Microsoft** (Excel, Power BI)
-- 📍 Based in **Varanasi, India** — open to remote, hybrid or relocation
+- 📍 Based in **Mau, India** — open to remote, hybrid or relocation
 
 ### 📚 Currently Learning
 
