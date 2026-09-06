@@ -20,7 +20,7 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboarding, 
 <img src="https://img.shields.io/badge/📁_Projects-4-0EA5E9?style=flat-square&labelColor=1F2937" />
 <img src="https://img.shields.io/badge/📈_Power_BI_Dashboards-9_pages-F59E0B?style=flat-square&labelColor=1F2937" />
 <img src="https://img.shields.io/badge/🎓_Certifications-3-10B981?style=flat-square&labelColor=1F2937" />
-<img src="https://img.shields.io/badge/📍_Varanasi,_India-open_to_remote-EC4899?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/📍Mau,_India-open_to_work-EC4899?style=flat-square&labelColor=1F2937" />
 
 </div>
 
